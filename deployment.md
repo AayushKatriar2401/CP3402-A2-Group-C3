@@ -28,4 +28,4 @@ Overall Flow: Notion's comprehensive feature set enabled us to create an overall
 
 # Environment Overview
 
-We used Amazon Web Services to set up our virtual environment, first we started a new instance, and for the software we used Ubuntu, and a virtual server was a t2.micro as it was free of cost.
+AWS EC2 (Elastic Compute Cloud) is a web service provided by Amazon Web Services (AWS) that allowed us to create and manage virtual servers in the cloud. EC2 instances are essentially virtual machines (VMs) that we can use to run our applications and services. AWS EC2 instances provide a flexible and scalable infrastructure for running our website in the cloud. Whether we need a single virtual server or a complex distributed system, EC2 offers the resources and features to meet our requirements.
