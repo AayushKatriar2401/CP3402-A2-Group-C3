@@ -3,7 +3,7 @@
 
 - About Us: The About Us page contains details about our values, missions, and a more descriptive learning into our history to help them to get to know Baizonn Learning Center, additionally it will also contain an image carousel of the awards that the center won. 
 
-- 
+- Register: The Registration page contains the class schedule in tabular form as well as any promotions that the center is offering as a package deal under it, finally there is also a registration form with which contains the fields to enter name, contact details, grade, class, subject and timing selection for the user to register for a class. 
 
 # Plugins
 
