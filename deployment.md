@@ -18,7 +18,13 @@ Within the AWS environment, we have set up an EC2 (Elastic Compute Cloud) instan
 
 # Project Management
 
-We used Notion for Project Management and were following the Kanban Framework which utilizes visual tracking of all members and activities while developing the site, we had three sections to record tracking items, and sections which display what is to be done what is in the process of being done and what has been completed. Thanks to Notion and its myriad of features we were able to create an overall flow for the project based on the tasks we were to accomplish.
+To streamline our website development process and ensure efficient task management, we adopted Notion as our project management tool. Leveraging the Kanban framework within Notion, we organized our tasks into three sections, allowing us to track items, visualize progress, and efficiently manage our project. This documentation outlines our use of Notion and the benefits it brought to our development workflow. 
+
+Notion: Notion is a versatile and collaborative workspace that offers a wide range of features for project management. By utilizing Notion, we were able to create an organized and centralized platform to track and manage our development tasks. Its intuitive interface and extensive customization options allowed us to tailor the workspace to our specific project needs. 
+
+Kanban: Within Notion, we implemented the Kanban framework to visualize our project's workflow. This framework organizes tasks into three distinct sections: "To Do," "In Progress," and "Completed." Each section represents a different stage of the development process. This visual representation provided us with a clear overview of our project's progress and helped us identify any bottlenecks or areas that required attention. 
+
+Overall Flow: Notion's comprehensive feature set enabled us to create an overall flow for our project based on the tasks we needed to accomplish. By visualizing the project timeline, identifying dependencies, and assigning priorities, we optimized our development process. Additionally, the collaborative nature of Notion allowed team members to actively communicate, provide feedback, and address any challenges or roadblocks that arose during the development phase.
 
 # Environment Overview
 
