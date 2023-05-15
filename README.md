@@ -8,3 +8,10 @@ This Project Repository contains the information for creating a new website for 
 2. Maheshram Shunmuganand - 13878911
 3. Sheng Yi Hong - 14176348
 4. Lu Zhixian - 14161321
+
+## Repository Components
+
+- a2.html: contains links to the website, our mediums of collaboration and link to the repository. 
+- deployment.md: gives information on our development and deployment of our site.
+- site.md: gives an overview on our WordPress site, plugins, features, and how to edit the site.
+- theme.md: This gives an overview of the custom theme created, and how to edit it.
