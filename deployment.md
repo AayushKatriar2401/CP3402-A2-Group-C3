@@ -1,12 +1,12 @@
 # Applications and Processes
 
-For daily communication, we used Discord to communicate important links, keep providing updates, planning meetings, and sharing tutorials, ideas, and designs with each other, additionally we also used Notion for our project management, to track which tasks were being done and which tasks have been completed. Lastly, we created and used GitHub to upload our project into a repository with the details about our website and the content.
+Efficient communication and seamless project management are paramount for the success of any collaborative endeavour. In our workflow, we have employed Discord, Notion, and GitHub as integral tools to facilitate daily communication, track progress, and manage our project effectively. This documentation provides an overview of each platform's role in supporting our team's collaboration and productivity. 
 
-# Theme Development
+Discord: Discord serves as our primary platform for daily communication and collaboration. Its versatile features enable us to share important links, provide updates, plan meetings, and exchange ideas, tutorials, and designs seamlessly. By utilizing Discord's text channels, voice channels, and direct messaging capabilities, we ensure effective and efficient communication within our team. 
 
-For the WordPress theme we decided to go with the Hello Elementor theme, which is a lightweight blank theme which was highly compatible with Elementor which we would use for our project. This theme is blank and hence is perfect for adding customized widgets and call to action buttons.
-The primary colour for the entire site has been white (#FFFFFF) with the CTA buttons in particular having a greenish colours to them, the primary colour’s of this site are red and white keeping in line with the content provided to us, which showed that the primary colours of the website are blue and lime green in order to keep with the colour palette of the business.
-For the header, we used another plugin called Envato Elements to develop a customized element theme for both the header and footer, the header contains the name of the business along with links to the other pages in the site towards right. The footer contains a small description about the business and the address of the business.
+Notion: To maintain organized project management, we rely on Notion as our go-to tool. Notion's flexible and customizable interface allows us to create a centralized workspace where we can track tasks, monitor progress, and collaborate on various project aspects. Through Notion, we allocate tasks, define deadlines, and track completed tasks, ensuring transparency and accountability among team members. 
+
+GitHub: GitHub serves as our dedicated platform for version control and repository management. With GitHub, we create a repository where we store our project files, including the website's details, content, and associated assets. This enables us to effectively manage different versions of the project, collaborate on code development, and seamlessly integrate changes made by team members.
 
 # Hosting and Deployment
 
@@ -19,5 +19,3 @@ We used Notion for Project Management and were following the Kanban Framework wh
 # Environment Overview
 
 We used Amazon Web Services to set up our virtual environment, first we started a new instance, and for the software we used Ubuntu, and a virtual server was a t2.micro as it was free of cost.
-
-# Development Workflow
