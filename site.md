@@ -24,6 +24,14 @@
 - reCAPTCHA by BestWebSoft: It's a tool that helps determine if a visitor to a website is a real person or a computer program.
 
 # Further Development
+
+To streamline the progress of website development, please adhere to the following guidelines:
+
+Plugin Installation:
+Ensure that all the plugins listed in the "Plugins" section of this document are installed. These plugins are essential for the proper functioning of the website and to enable its further enhancement.
+
+Importing XML File:
+Download the provided .xml file from the GitHub repository. Afterward, import the file into your website. Verify that all the pages mentioned in the file are present in the "Pages" section of your website's content management system (CMS). This step guarantees that the necessary page structure is in place for seamless development.
 To facilitate ongoing development and customization of our website, we employ two powerful tools: the WordPress editor and Elementor. These tools provide us with a user-friendly interface and extensive functionality to update details, modify colours, and add new pages to our website. This documentation outlines the process of utilizing these tools and provides instructions for adding new pages to the website and incorporating them into the navigation bar.
 
 The WordPress editor serves as a comprehensive platform for updating website content. With its intuitive interface, we can easily modify text, images, and other elements throughout the site. To update details and colours, follow these steps:
